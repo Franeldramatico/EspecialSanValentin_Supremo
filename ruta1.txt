@@ -1,0 +1,221 @@
+ 💘 RUTA 1 — “Dos corazones, cero flechas”
+(Guion completo y extenso)
+ESCENA 1 — PRESENTACIÓN
+
+Imagen: Francisco-Presentacion
+
+Francisco (galan):
+— Vaya…
+— Así que tú eres Aranxita.
+
+Francisco (orgulloso):
+— Antes de que digas cualquier cosa rara: sí.
+— Soy Cupido. El verdadero. El profesional. El que no necesita autotune.
+
+Francisco (sarcasmo):
+— Y no, no soy Soobin.
+— Gracias al cielo.
+
+Francisco (feliz):
+— Mi trabajo es unir corazones…
+— aunque últimamente estoy pensando en jubilarme.
+
+Francisco (fingida indiferencia):
+— En fin.
+— Tú estás aquí por una razón.
+— Y no soy yo quien va a perseguirte.
+
+Francisco (galan):
+— Si quieres mi atención…
+— tendrás que ganártela.
+
+OPCIONES
+
+“¿Y si te conquisto a mi manera?”
+
+“¿Siempre eres así de creído?”
+
+“Pensé que Cupido era más serio”
+
+Observarlo en silencio
+
+➡️ Ruta 1 continúa SOLO con la opción 1
+
+ESCENA 2 — EL DESAFÍO
+
+Imagen: Francisco-Soprendido
+
+Francisco (soprendido):
+— ¿A tu manera?
+
+Francisco (sarcasmo):
+— Eso suena peligrosamente interesante…
+— o peligrosamente decepcionante.
+
+Francisco (orgulloso):
+— Te escucho.
+— Pero te advierto algo, Aranxita…
+
+Francisco (galan):
+— He visto de todo.
+— Promesas vacías, palabras bonitas…
+— incluso gente que cree que Soobin es el hombre perfecto.
+
+Francisco (enojado):
+— Spoiler: no lo es.
+
+Francisco (fingida indiferencia):
+— Adelante.
+— Inténtalo.
+
+OPCIONES
+
+“No quiero impresionarte, quiero conocerte”
+
+“No necesito competir con nadie”
+
+“No vine por una flecha, vine por ti”
+
+ESCENA 3 — PRIMERA GRIETA EN CUPIDO
+
+Imagen: Francisco-Confundido
+
+(cualquiera de las 3 opciones lleva aquí)
+
+Francisco (confundido):
+— …Eso no era lo que esperaba.
+
+Francisco (sarcasmo):
+— Normalmente la gente intenta quedar bien.
+— Tú acabas de ignorar todo mi ego en menos de diez segundos.
+
+Francisco (orgulloso):
+— Eso tiene mérito.
+
+Francisco (galan):
+— Dime algo entonces, Aranxita.
+— ¿Por qué yo?
+
+OPCIONES
+
+“Porque no necesito a alguien perfecto”
+
+“Porque me haces reír”
+
+“Porque debajo del sarcasmo hay algo real”
+
+ESCENA 4 — CUPIDO BAJA LA GUARDIA
+
+Imagen: Francisco-Sonrojado
+
+Francisco (sonrojado):
+— Oye…
+— No ataques tan directo.
+
+Francisco (timidez):
+— Se supone que yo hago que la gente se ponga nerviosa.
+
+Francisco (sarcasmo):
+— Esto no estaba en el manual de Cupido.
+
+Francisco (fingida indiferencia):
+— Aunque…
+— admito que no es desagradable.
+
+Francisco (feliz):
+— Sigue hablando.
+
+BOTÓN
+
+Continuar
+
+ESCENA 5 — LA SOMBRA DE SOOBIN
+
+Imagen: Francisco-Enojado
+
+Francisco (sarcasmo):
+— Solo para dejar algo claro…
+— no soy un reemplazo de ningún idol.
+
+Francisco (enojado):
+— Especialmente de Soobin.
+
+Francisco (super enojado):
+— Ese tipo tiene demasiada gente enamorada sin mover un dedo.
+
+Francisco (orgulloso):
+— Yo al menos doy la cara.
+
+OPCIONES
+
+“No te comparo con nadie”
+
+“No estoy buscando un ídolo”
+
+“Me gustas tú, no una fantasía”
+
+ESCENA 6 — CONQUISTA DIRECTA
+
+Imagen: Francisco-Soprendido
+
+Francisco (soprendido):
+— Wow.
+
+Francisco (confundido):
+— Eso fue…
+— sorprendentemente honesto.
+
+Francisco (sonrojado):
+— Y peligrosamente efectivo.
+
+Francisco (galan):
+— Aranxita…
+— me estás desarmando.
+
+BOTÓN
+
+Continuar
+
+ESCENA 7 — CUPIDO ADMITE DERROTA
+
+Imagen: Francisco-Feliz
+
+Francisco (feliz):
+— Sabes qué es lo peor de todo esto…
+
+Francisco (sarcasmo):
+— Que no usaste trucos.
+— Ni flechas.
+— Ni promesas exageradas.
+
+Francisco (orgulloso):
+— Solo fuiste tú.
+
+Francisco (galan):
+— Y eso…
+— funcionó.
+
+OPCIONES
+
+Acercarte un poco más
+
+“Entonces… ¿te conquisté?”
+
+ESCENA 8 — FINAL ROMÁNTICO
+
+Imagen: Francisco-Galan
+
+Francisco (galan):
+— Sí.
+— Oficialmente.
+
+Francisco (sonrojado):
+— Cupido…
+— enamorado.
+
+Francisco (feliz):
+— Supongo que esta vez…
+— no voy a lanzar ninguna flecha.
+
+Francisco (orgulloso):
+— Porque ya elegí.

@@ -1,0 +1,156 @@
+🥀 RUTA 5 — “Casi”
+(Guion completo y EXTENSO · Final malo)
+ESCENA 1 — PRESENTACIÓN
+
+Imagen: Francisco-Presentacion
+
+Francisco (galan):
+— Aranxita.
+
+Francisco (orgulloso):
+— Soy Cupido.
+— El que convierte “tal vez” en “para siempre”.
+
+Francisco (sarcasmo):
+— O al menos… eso intento.
+
+Francisco (fingida indiferencia):
+— Tú dirás.
+— ¿Qué buscas aquí?
+
+OPCIONES
+
+“No lo sé”
+
+“Solo quería verte”
+
+“Pensé que sería distinto”
+
+Dudar en responder
+
+➡️ Cualquiera continúa la ruta
+
+ESCENA 2 — LA DUDA
+
+Imagen: Francisco-Confundido
+
+Francisco (confundido):
+— …
+
+Francisco (sarcasmo):
+— Esa pausa lo dijo todo.
+
+Francisco (orgulloso):
+— Normalmente la gente viene con respuestas.
+
+Francisco (galan):
+— Tú vienes con dudas.
+
+BOTÓN
+
+Continuar
+
+ESCENA 3 — CUPIDO INTENTA ACERCARSE
+
+Imagen: Francisco-Galan
+
+Francisco (galan):
+— No tienes que saberlo todo ahora.
+
+Francisco (fingida indiferencia):
+— A veces el camino se aclara andando.
+
+Francisco (feliz):
+— Podríamos… intentarlo.
+
+ESCENA 4 — EL MIEDO APARECE
+
+Imagen: Francisco-Decepcionado
+
+Aranxita:
+— ¿Y si no soy suficiente?
+
+Francisco (decepcionado):
+— …
+
+Francisco (confundido):
+— No digas eso.
+
+Francisco (orgulloso):
+— Nadie que llega hasta aquí es poco.
+
+Francisco (timidez):
+— Pero tienes que creerlo tú.
+
+ESCENA 5 — SOMBRA DE COMPARACIÓN
+
+Imagen: Francisco-Enojado
+
+Francisco (sarcasmo):
+— Dime que no te estás comparando…
+
+Francisco (enojado):
+— ¿Con alguien más?
+
+Francisco (super enojado):
+— ¿Soobin?
+
+Francisco (orgulloso):
+— No es justo.
+
+ESCENA 6 — LA FRACTURA
+
+Imagen: Francisco-Decepcionado
+
+Aranxita:
+— No es él…
+— soy yo.
+
+Francisco (decepcionado):
+— Esa frase siempre es una despedida.
+
+Francisco (fingida indiferencia):
+— Y lo sabes.
+
+Francisco (galan):
+— No puedo enamorar a alguien que no se queda.
+
+ESCENA 7 — ÚLTIMO INTENTO
+
+Imagen: Francisco-Confundido
+
+Francisco (confundido):
+— Si me miras ahora…
+
+Francisco (timidez):
+— y decides quedarte…
+
+Francisco (feliz):
+— prometo no irme.
+
+OPCIONES
+
+Bajar la mirada
+
+“No puedo”
+
+➡️ Ambas llevan al final malo
+
+ESCENA 8 — FINAL
+
+Imagen: Francisco-FingidaIndiferencia
+
+Francisco (fingida indiferencia):
+— Está bien.
+
+Francisco (orgulloso):
+— No voy a retenerte.
+
+Francisco (decepcionado):
+— El amor no se ruega.
+
+Francisco (sarcasmo):
+— Ni siquiera por Cupido.
+
+🥀 FINAL RUTA 5 DESBLOQUEADO
+“Casi” 💔
