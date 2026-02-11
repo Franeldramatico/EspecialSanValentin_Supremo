@@ -23,6 +23,8 @@ interface CharacterImageProps {
 }
 
 export const CharacterImage: React.FC<CharacterImageProps> = ({ emotion }) => {
+  const baseUrl = import.meta.env.BASE_URL;
+
   return (
     <div className="relative w-full h-full min-h-[400px] flex items-end justify-center">
 
@@ -46,8 +48,9 @@ export const CharacterImage: React.FC<CharacterImageProps> = ({ emotion }) => {
         {/* The Image Itself */}
         <img
           key={emotion} // Forces re-render animation
-          src={IMAGE_MAP[emotion]}
+          src={`${baseUrl}${IMAGE_MAP[emotion].startsWith('/') ? IMAGE_MAP[emotion].slice(1) : IMAGE_MAP[emotion]}`}
           onError={(e) => {
+            console.error(`Error loading image: ${e.currentTarget.src}`);
             e.currentTarget.style.display = 'none';
           }}
           alt={`Francisco feeling ${emotion}`}
